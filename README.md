@@ -1,3 +1,3 @@
 ## Patika Pratik - If / Else
 
-Kod Bloğu: [IfElsePractice.cs](https://github.com/batuhan-uzun/ManavUygulamasi/blob/master/ManavProject.cs)
+Kod Bloğu: [ManavProject.cs](https://github.com/batuhan-uzun/ManavUygulamasi/blob/master/ManavProject.cs)
